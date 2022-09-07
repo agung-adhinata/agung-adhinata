@@ -1,4 +1,4 @@
-- 🚧 Incomplete 🚧
+- 🚧 Beep Boop, In Progress 🚧
 - 👋 Hi, I’m @nekkiichi
 - you can fine me only in my Instagram, @agung_adhinata
 <!---
