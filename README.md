@@ -1,10 +1,10 @@
 <p align="left"><samp>「</samp></p>
 <p align="center">
   <samp>
-    <b>Agung Adhinata</b>
+    <h1><b>Agung Adhinata</b></h1>
     <br>
     <b>
-    a Webdev, Student, and a beginer Android Dev
+    a Webdev, Student, and beginer Android Dev
     </b>
    </samp>
 </p>
