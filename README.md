@@ -1,7 +1,7 @@
 <p align="left"><samp>「</samp></p>
 <p align="center">
   <samp>
-    <h1><b>Agung Adhinata</b></h1>
+    <b>Agung Adhinata</b>
     <br>
     <b>
     a Webdev, Student, and beginer Android Dev
