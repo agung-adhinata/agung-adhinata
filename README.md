@@ -3,7 +3,9 @@
   <samp>
     <b>Agung Adhinata</b>
     <br>
-    Webdev | Student | Android Dev
+    <b>
+    a Webdev, Student, and a beginer Android Dev
+    </b>
    </samp>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
